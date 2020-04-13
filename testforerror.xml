@@ -1,0 +1,448 @@
+{
+    "results": {
+        "pendCredStatCd": [
+            {
+                "cd": "A",
+                "dsc": "APPROVED"
+            },
+            {
+                "cd": "AC",
+                "dsc": "APPROVED WITH CHANGES"
+            },
+            {
+                "cd": "CL",
+                "dsc": "CANCELLED BY ORIGINATOR"
+            },
+            {
+                "cd": "D",
+                "dsc": "DENIED"
+            },
+            {
+                "cd": "DC",
+                "dsc": "DENIED CLOSED"
+            },
+            {
+                "cd": "DV",
+                "dsc": "VISION DELETE"
+            },
+            {
+                "cd": "P",
+                "dsc": "PENDING"
+            },
+            {
+                "cd": "PA",
+                "dsc": "PENDING FINAL-APPROVAL"
+            }
+        ],
+        "reviewrUserIdCd": "00008377",
+        "tempMaxEffDateWithCatCd": [],
+        "maxEffDateWithOutCatCd": [
+            {
+                "visionUserIdCd": "ACSSRP1",
+                "effDt": "2010-04-08",
+                "directUserIdCd": "SURESJA",
+                "userHierLvlCd": "7",
+                "endDt": "9999-12-31"
+            }
+        ],
+        "tempCeqHierarchy": [
+            {
+                "visionUserIdCd": "ACSSRP1",
+                "effDt": "2010-04-08",
+                "directUserIdCd": "SURESJA",
+                "userHierLvlCd": "7",
+                "endDt": "9999-12-31"
+            }
+        ],
+        "tempCeqHierarchyByDirect": [
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "ACSSAD1",
+                "effDt": "2009-04-28",
+                "userHierLvlCd": "1",
+                "endDt": "9999-12-31"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "ACSSAD2",
+                "effDt": "2009-04-28",
+                "userHierLvlCd": "1",
+                "endDt": "9999-12-31"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "ACSSRP1",
+                "effDt": "2010-04-08",
+                "userHierLvlCd": "7",
+                "endDt": "9999-12-31"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "ACSSRP2",
+                "effDt": "2010-04-08",
+                "userHierLvlCd": "7",
+                "endDt": "9999-12-31"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "ACSSRP7",
+                "effDt": "2009-05-08",
+                "userHierLvlCd": "7",
+                "endDt": "9999-12-31"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "ACSSSP2",
+                "effDt": "2010-04-08",
+                "userHierLvlCd": "5",
+                "endDt": "9999-12-31"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "TESTCEQ1",
+                "effDt": "2009-05-05",
+                "userHierLvlCd": "7",
+                "endDt": "2010-03-02"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "TESTCEQ2",
+                "effDt": "2009-05-05",
+                "userHierLvlCd": "5",
+                "endDt": "2010-03-02"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "TESTCEQ3",
+                "effDt": "2009-05-05",
+                "userHierLvlCd": "1",
+                "endDt": "2010-03-02"
+            }
+        ],
+        "tempHrHierLvlCode": [],
+        "cqHierarchyUserId": [
+            {
+                "visionUserIdCd": "ACSSRP1"
+            }
+        ],
+        "pendCredReqAll": [],
+        "tempHrHierLvlCodeByDirect": [],
+        "peerListAssDir": [
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "ACSSAD1",
+                "effDt": "2009-04-28",
+                "userHierLvlCd": "1",
+                "endDt": "9999-12-31"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "ACSSAD2",
+                "effDt": "2009-04-28",
+                "userHierLvlCd": "1",
+                "endDt": "9999-12-31"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "ACSSRP2",
+                "effDt": "2010-04-08",
+                "userHierLvlCd": "7",
+                "endDt": "9999-12-31"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "ACSSRP7",
+                "effDt": "2009-05-08",
+                "userHierLvlCd": "7",
+                "endDt": "9999-12-31"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "ACSSSP2",
+                "effDt": "2010-04-08",
+                "userHierLvlCd": "5",
+                "endDt": "9999-12-31"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "TESTCEQ1",
+                "effDt": "2009-05-05",
+                "userHierLvlCd": "7",
+                "endDt": "2010-03-02"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "TESTCEQ2",
+                "effDt": "2009-05-05",
+                "userHierLvlCd": "5",
+                "endDt": "2010-03-02"
+            },
+            {
+                "directUserIdCd": "SURESJA",
+                "visionUserIdCd": "TESTCEQ3",
+                "effDt": "2009-05-05",
+                "userHierLvlCd": "1",
+                "endDt": "2010-03-02"
+            }
+        ],
+        "cqHierarchy2": [],
+        "newEffDateWithOutCatCd": [
+            {
+                "visionUserIdCd": "ACSSRP1",
+                "effDt": "2010-04-08",
+                "directUserIdCd": "SURESJA",
+                "userHierLvlCd": "7",
+                "endDt": "9999-12-31"
+            }
+        ]
+    },
+    "status": {
+        "code": "200",
+        "message": "Success"
+    },
+    "executionInfo": {
+        "startTime": 1586759145011,
+        "endTime": 1586759145028,
+        "timeTaken": 17,
+        "hostName": "10-119-10-83.ebiz.verizon.com",
+        "vmId": "1",
+        "details": {
+            "pendCredStatCd": {
+                "timeTaken": 0,
+                "records_fetched_from_cache": 8,
+                "batches_executed": 1,
+                "startTime": 1586759145012,
+                "cache_hits": 1,
+                "endTime": 1586759145012,
+                "query_time": 0
+            },
+            "reviewrUserIdCd": {
+                "warmed_up": true,
+                "execute_on_empty_dependencies": false,
+                "result": "java.lang.String",
+                "time_in_ms_script_run": 0,
+                "timeTaken": 0,
+                "startTime": 1586759145012,
+                "endTime": 1586759145012,
+                "time_in_ms_for_new_instance": 0,
+                "field supervisorUserIdCd": "java.lang.String"
+            },
+            "tempMaxEffDateWithCatCd": {
+                "timeTaken": 0,
+                "startTime": 0,
+                "endTime": 0,
+                "status": "Task Cancelled -"
+            },
+            "maxEffDateWithOutCatCd": {
+                "warmed_up": true,
+                "execute_on_empty_dependencies": false,
+                "result": "1 Items",
+                "time_in_ms_script_run": 2,
+                "timeTaken": 2,
+                "startTime": 1586759145015,
+                "endTime": 1586759145017,
+                "field newEffDateWithOutCatCd": "1 Items",
+                "time_in_ms_for_new_instance": 0
+            },
+            "tempCeqHierarchy": {
+                "timeTaken": 0,
+                "records_fetched_from_cache": 1,
+                "batches_executed": 1,
+                "startTime": 1586759145012,
+                "cache_hits": 1,
+                "endTime": 1586759145012,
+                "query_time": 0
+            },
+            "maxEffDateWithCatCd": {
+                "timeTaken": 0,
+                "startTime": 0,
+                "endTime": 0,
+                "status": "Cancelled - since tempMaxEffDateWithCatCd  is empty"
+            },
+            "tempCeqHierarchyByDirect": {
+                "timeTaken": 1,
+                "records_fetched_from_cache": 9,
+                "batches_executed": 1,
+                "startTime": 1586759145017,
+                "cache_hits": 1,
+                "endTime": 1586759145018,
+                "query_time": 0
+            },
+            "tempHrHierLvlCode": {
+                "timeTaken": 1,
+                "records_fetched_from_cache": 0,
+                "batches_executed": 1,
+                "startTime": 1586759145012,
+                "cache_hits": 1,
+                "endTime": 1586759145013,
+                "query_time": 1
+            },
+            "cqHierarchyUserId": {
+                "timeTaken": 0,
+                "startTime": 1586759145012,
+                "endTime": 1586759145012
+            },
+            "pendCredReqAll": {
+                "timeTaken": 3,
+                "records_fetched_from_query": 0,
+                "batches_executed": 1,
+                "startTime": 1586759145012,
+                "endTime": 1586759145015,
+                "queries_executed": 1,
+                "query_time": 3
+            },
+            "tempHrHierLvlCodeByDirect": {
+                "timeTaken": 4,
+                "records_fetched_from_query": 0,
+                "batches_executed": 1,
+                "startTime": 1586759145024,
+                "endTime": 1586759145028,
+                "queries_executed": 3,
+                "query_time": 3
+            },
+            "peerListAssDir": {
+                "warmed_up": true,
+                "execute_on_empty_dependencies": false,
+                "result": "8 Items",
+                "time_in_ms_script_run": 6,
+                "timeTaken": 6,
+                "field visionUserIdCd": "java.lang.String",
+                "field tempCeqHierarchyByDirect": "9 Items",
+                "startTime": 1586759145018,
+                "endTime": 1586759145024,
+                "time_in_ms_for_new_instance": 0
+            },
+            "cqHierarchy2": {
+                "timeTaken": 0,
+                "startTime": 0,
+                "endTime": 0,
+                "status": "Task Cancelled -"
+            },
+            "newEffDateWithOutCatCd": {
+                "warmed_up": true,
+                "execute_on_empty_dependencies": false,
+                "result": "1 Items",
+                "time_in_ms_script_run": 3,
+                "timeTaken": 3,
+                "field days91AgoLimit": "java.lang.String",
+                "field currentDate": "java.lang.String",
+                "startTime": 1586759145012,
+                "field tempCeqHierarchy": "1 Items",
+                "endTime": 1586759145015,
+                "time_in_ms_for_new_instance": 0
+            },
+            "cqHierarchy1": {
+                "timeTaken": 0,
+                "startTime": 0,
+                "endTime": 0,
+                "status": "Cancelled - since maxEffDateWithCatCd  is cancelled "
+            }
+        }
+    }
+}
+
+
+##################################################################################
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<typedefs xmlns="http://www.vzw.com/namespaces/scm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vzw.com/namespaces/scm DataServicesSchema.xsd">
+    <typedef type="Test_COR_GetPeerListByUserId">
+
+	<key attribs="visionUserIdCd,supervisorUserIdCd,days91AgoLimit,currentDate"/>
+		
+	 <attribute name="cqHierarchyUserId" >
+		<constructModels fromVariable="$visionUserIdCd" modelType="com.vzwcorp.dagv.data.model.CeqHierarchyModel" modelField="visionUserIdCd"/>
+    </attribute>
+	
+				<!-- FCST589C S.NO 10 and 31  -->
+		
+			<attribute name="tempCeqHierarchy" type="CeqHierarchyModel" dataservice="Cassandra" visible="true">
+				<query>select pk1_value as vision_user_id_cd,ck1_value as eff_dt,nk1_value as direct_user_id_cd,nk2_value as user_hier_lvl_cd,nk3_value as end_dt from reference_xref where source_table='CEQ_HIERARCHY' and pk1_value = %cqHierarchyUserId.visionUserIdCd</query>
+			</attribute>
+			
+			<attribute name="tempHrHierLvlCode" type="HrHierLvlCodeModel" dataservice="Cassandra" visible="true">
+				<query>select pk1_value as hr_hier_lvl_cd,nk1_value as hr_hier_lvl_dsc,nk2_value as hr_hier_cat_cd,nk3_value as mgr_capability_cd from reference_xref where source_table='HR_HIER_LVL_CODE' and pk1_value = %tempCeqHierarchy.userHierLvlCd.hrHierLvlCd</query>
+			</attribute>
+			
+				<attribute name="tempMaxEffDateWithCatCd" type="CeqHierarchyModel" dataservice="Cassandra" visible="true">
+				<variable>%tempCeqHierarchy.findAll{null != it.userHierLvlCd &amp;&amp; '' != it.userHierLvlCd &amp;&amp; %tempHrHierLvlCode.hrHierLvlCd.contains(it.userHierLvlCd) &amp;&amp; ((it.endDt &gt; $days91AgoLimit &amp;&amp; 
+				   it.endDt &lt; $currentDate) || it.endDt == '9999-12-31')}</variable>
+			</attribute>
+			
+			<attribute name="maxEffDateWithCatCd" visible="true">
+				<variable>%tempMaxEffDateWithCatCd.max{it.effDt}.collect()</variable>
+			</attribute>
+			
+			<attribute name="cqHierarchy1" type="CeqHierarchyModel" dataservice="Cassandra">
+				<variable>%tempCeqHierarchy.findAll{null != it.effDt &amp;&amp; '' != it.effDt &amp;&amp; null != it.endDt &amp;&amp; '' != it.endDt &amp;&amp; ((it.endDt &gt; $days91AgoLimit &amp;&amp; it.endDt &lt; $currentDate) || it.endDt == '9999-12-31') &amp;&amp; %maxEffDateWithCatCd.effDt.contains(it.effDt)}</variable>
+			</attribute>
+			
+			<!-- FCST589C S.NO 29  -->
+			<attribute name="cqHierarchy2" type="CeqHierarchyModel" dataservice="Cassandra">
+				<variable>%tempCeqHierarchy.findAll{null != it.visionUserIdCd &amp;&amp; '' != it.visionUserIdCd &amp;&amp; it.visionUserIdCd == $visionUserIdCd &amp;&amp; null != it.userHierLvlCd &amp;&amp; '' != it.userHierLvlCd &amp;&amp; %tempHrHierLvlCode.hrHierLvlCd.contains(it.userHierLvlCd) &amp;&amp; %tempHrHierLvlCode.hrHierCatCd.contains('DRECT') &amp;&amp;  null != it.endDt &amp;&amp; '' != it.endDt &amp;&amp; ((it.endDt &gt; $days91AgoLimit &amp;&amp; it.endDt &lt; $currentDate) || it.endDt == '9999-12-31')}</variable>
+			</attribute>
+		
+			<attribute name="newEffDateWithOutCatCd" type="CeqHierarchyModel" dataservice="Cassandra">
+				<variable>%tempCeqHierarchy.findAll{((it.endDt &gt; $days91AgoLimit &amp;&amp; it.endDt &lt; $currentDate) || 
+				it.endDt == '9999-12-31')}</variable>
+			</attribute>
+			
+		    <attribute name="maxEffDateWithOutCatCd" visible="true">
+				<variable>%newEffDateWithOutCatCd.max{it.effDt}.collect()</variable>
+			</attribute>
+			
+		<!--			
+			<attribute name="cqHierarchy3" type="CeqHierarchyModel" dataservice="Cassandra">
+				<variable>%tempCeqHierarchy.findAll{null != it.effDt &amp;&amp; '' != it.effDt &amp;&amp; null != it.endDt &amp;&amp; 
+				'' != it.endDt &amp;&amp; ((it.endDt &gt; $days91AgoLimit &amp;&amp; it.endDt &lt; $currentDate) || it.endDt == '9999-12-31') 
+				&amp;&amp; it.effDt == %maxEffDateWithOutCatCd.effDt}</variable>
+			</attribute>
+			
+		!-->
+			
+			<attribute  name="reviewrUserIdCd">
+					<variable>
+						$supervisorUserIdCd
+					</variable>
+			</attribute>
+			
+			<!-- FCST589C S.NO 15  -->
+			<attribute name="pendCredReqAll" type="PendCredRequestModel" dataservice="Cassandra" defaultToEmptyIfCancel="true">
+            	<query>select reviewr_user_id_cd, pend_cred_stat_cd  from pend_cred_request_by_reviewr where reviewr_user_id_cd=%reviewrUserIdCd</query>
+            	<queryFilters operator="OR">
+					<queryFilter column="pend_cred_stat_cd" expression="EQUALS" value="P"/>
+				</queryFilters>
+			</attribute> 
+		   
+		   	<!-- FCST589C S.NO 41  -->
+			<attribute name="pendCredStatCd" type="CdTableModel" dataservice="Cassandra">
+				<query>SELECT cd, dsc FROM cd_table WHERE cd_nme = 'PEND_CRED_STAT_CD'</query>
+			</attribute>
+			
+				<!-- FCST589C S.NO 33  -->
+		
+		<attribute name="tempCeqHierarchyByDirect" type="CeqHierarchyByDirectModel" dataservice="Cassandra" visible="true">
+				<query>select pk1_value as direct_user_id_cd,ck1_value as vision_user_id_cd,ck2_value as eff_dt,nk2_value as user_hier_lvl_cd,nk3_value as end_dt from reference_xref where source_table='CEQ_HIERARCHY_BY_DIRECT' and pk1_value =%maxEffDateWithOutCatCd.directUserIdCd</query>
+			</attribute>
+			
+			<attribute name="peerListAssDir" type="CeqHierarchyByDirectModel" dataservice="Cassandra">
+				<variable>%tempCeqHierarchyByDirect.findAll{it.visionUserIdCd != $visionUserIdCd}</variable>
+			</attribute>
+			
+		    <attribute name="tempHrHierLvlCodeByDirect" type="HrHierLvlCodeModel" dataservice="Cassandra" visible="true">
+				<query>select pk1_value as hr_hier_lvl_cd,nk1_value as hr_hier_lvl_dsc,nk2_value as hr_hier_cat_cd,nk3_value as mgr_capability_cd from reference_xref where source_table='HR_HIER_LVL_CODE' and pk1_value = %peerListAssDir.userHierLvlCd.hrHierLvlCd</query>
+				<queryFilters operator="AND">
+					<queryFilter column="nk2_value" expression="EQUALS" value="DRECT"/>
+				</queryFilters>
+			</attribute>
+			
+    </typedef>
+</typedefs>
+
+
+
+Sample Request:
+
+{"requestType":"Test_COR_GetPeerListByUserId","keyAttributes":{"visionUserIdCd":"ACSSRP1","supervisorUserIdCd":"00008377","currentDate":"2020-03-19","days91AgoLimit":"2019-12-19"}}
